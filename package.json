@@ -3,6 +3,7 @@
     "events": "^3.3.0",
     "filesystem": "^1.0.1",
     "http": "^0.0.1-security",
+    "lodash": "^4.17.21",
     "stream": "^0.0.2"
   }
 }
